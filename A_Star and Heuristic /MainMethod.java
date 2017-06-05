@@ -34,7 +34,7 @@ public static void main(String[] args) throws IOException
             System.out.println("-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_\n");
             System.exit(0);
         }
-        
+
        // The name of the file to open.
         String fileName = args[0];
 

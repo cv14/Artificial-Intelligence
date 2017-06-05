@@ -1,0 +1,25 @@
+All the files are commented and explained.
+
+To run the program and display the output, run the code
+javac *.java
+java Tester
+
+Example code:
+
+javac MainMethod.java
+
+java Tester
+
+Hill Climbing resutls :
+Success Rate of Hill Climbing : 14.91
+Average moves if Success : 5.19
+Average moves if Stuck : 4.07
+
+Simulated Annealing resutls :
+Success Rate of Hill Climbing : 62.91
+Average moves if Success : 23.43
+Average moves if Stuck : 25.66
+
+- Overall this was a great project to work on. Grateful to have the opportunity.
+  Thank you
+  Saurav Paudyal.
